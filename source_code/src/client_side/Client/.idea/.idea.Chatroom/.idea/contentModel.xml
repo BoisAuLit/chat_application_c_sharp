@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Chatroom.1252852321.00" t="ExcludeRecursive" />
+    <e p="F:\workspace\visual studio\Chatroom" t="IncludeFlat">
+      <e p="Chatroom" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="Authentification" t="Include">
+          <e p="Authentification.cs" t="Include" />
+          <e p="AuthentificationException.cs" t="Include" />
+          <e p="AuthentificationMySQL.cs" t="Include" />
+          <e p="IAuthentificationManager.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserExistsException.cs" t="Include" />
+          <e p="UserUnknownException.cs" t="Include" />
+          <e p="WrongPasswordException.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chat" t="Include">
+          <e p="IChatroom.cs" t="Include" />
+          <e p="IChatter.cs" t="Include" />
+          <e p="ITopicManager.cs" t="Include" />
+          <e p="TextChatroom.cs" t="Include" />
+          <e p="TextChatter.cs" t="Include" />
+          <e p="TextTopicManager.cs" t="Include" />
+          <e p="TopicExistentException.cs" t="Include" />
+          <e p="TopicInExistentException.cs" t="Include" />
+        </e>
+        <e p="Chatroom.csproj" t="IncludeRecursive" />
+        <e p="Client" t="Include">
+          <e p="AuthentificationClient.cs" t="Include" />
+          <e p="ClientChatroom.cs" t="Include" />
+          <e p="ClientTopicManager.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="Users.txt" t="Include" />
+        </e>
+        <e p="GUI" t="Include">
+          <e p="AuthentificationForm.cs" t="Include" />
+          <e p="AuthentificationForm.Designer.cs" t="Include" />
+          <e p="AuthentificationForm.resx" t="Include" />
+          <e p="ChatroomForm.cs" t="Include" />
+          <e p="ChatroomForm.Designer.cs" t="Include" />
+          <e p="ChatroomForm.resx" t="Include" />
+          <e p="ChoosingTopicForm.cs" t="Include" />
+          <e p="ChoosingTopicForm.Designer.cs" t="Include" />
+          <e p="ChoosingTopicForm.resx" t="Include" />
+          <e p="Environment.cs" t="Include" />
+        </e>
+        <e p="Net" t="Include">
+          <e p="IMessageConnection.cs" t="Include" />
+          <e p="IRunnable.cs" t="Include" />
+          <e p="ServerMode.cs" t="Include" />
+          <e p="StateObject.cs" t="Include" />
+          <e p="TcpClient.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="Chatroom.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

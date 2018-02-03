@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3e69684-061c-4f1c-912f-d426f60557ec" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AuthentificationForm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chatroom/GUI/AuthentificationForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513110391673" expanded="true" signature="6:311" ph="..." />
+                <marker date="1513110391673" expanded="true" signature="335:4060" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="390:4058" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="521:1119" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="544:893" ph="/* Start the client process ... */" />
+                <marker date="1513110391673" expanded="true" signature="1182:1203" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1273:1294" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1374:1395" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1463:1571" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1638:1825" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1694:1729" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1901:1926" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="1996:3869" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="2308:2595" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="2414:2557" ph="/* MessageBox.Show(&quot;Password empty or withespace or null!&quot;, &quot;Error message&quot;, ... */" />
+                <marker date="1513110391673" expanded="true" signature="2643:2930" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="2749:2892" ph="/* MessageBox.Show(&quot;Password empty or withespace or null!&quot;, &quot;Error message&quot;, ... */" />
+                <marker date="1513110391673" expanded="true" signature="3042:3521" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="3346:3483" ph="/* MessageBox.Show(&quot;Authentification Okay!&quot;, &quot;Félicitations&quot;, ... */" />
+                <marker date="1513110391673" expanded="true" signature="3538:3858" ph="{...}" />
+                <marker date="1513110391673" expanded="true" signature="3702:3820" ph="/* MessageBox.Show(_ac.FailureMessage, &quot;Failure&quot;, ... */" />
+                <marker date="1513110391673" expanded="true" signature="3918:4050" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatroomForm.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chatroom/GUI/ChatroomForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513196113926" expanded="false" signature="6:310" ph="..." />
+                <marker date="1513196113926" expanded="true" signature="334:2813" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="378:2811" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="515:1124" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="723:872" ph="/* Send message to server to join the topic ... */" />
+                <marker date="1513196113926" expanded="true" signature="918:955" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1152:1719" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1215:1715" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1283:1710" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1792:1994" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1840:1929" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="1937:1990" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="2054:2162" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="2224:2233" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="2305:2314" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="2375:2808" ph="{...}" />
+                <marker date="1513196113926" expanded="true" signature="2488:2523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChoosingTopicForm.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chatroom/GUI/ChoosingTopicForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513189503391" expanded="true" signature="6:270" ph="..." />
+                <marker date="1513189503391" expanded="true" signature="294:6051" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="343:6049" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="419:1147" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="605:647" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="766:1076" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="834:893" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="902:1071" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1014:1065" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1081:1143" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1204:1213" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1287:1296" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1363:1372" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1462:3630" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1655:1733" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1781:1850" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="1855:1958" ph="/* Set cursor to pause icon ... */" />
+                <marker date="1513189503391" expanded="true" signature="2114:2157" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="2383:2478" ph="/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ ... */" />
+                <marker date="1513189503391" expanded="true" signature="2579:3626" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="2676:3029" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="2796:2906" ph="/* Reset cursor to default icon ... */" />
+                <marker date="1513189503391" expanded="true" signature="3086:3468" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="3235:3345" ph="/* Reset cursor to default icon ... */" />
+                <marker date="1513189503391" expanded="true" signature="3478:3547" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="3691:3857" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="3742:3777" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="3932:3941" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4007:5662" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4111:4185" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4342:4383" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4560:5658" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4733:5252" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="4895:5050" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="5061:5146" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="5262:5400" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="5408:5573" ph="/* We don't need it right now ... */" />
+                <marker date="1513189503391" expanded="true" signature="5770:6046" ph="{...}" />
+                <marker date="1513189503391" expanded="true" signature="5878:5943" ph="/* form.FormClosed += (s, args) =&gt; this.Close(); ... */" />
+                <marker date="1513189503391" expanded="true" signature="5950:6042" ph="/* Stop the client topic manager proxy because we don't need it anymore111 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Environment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chatroom/GUI/Environment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513101686634" expanded="false" signature="6:136" ph="..." />
+                <marker date="1513101686634" expanded="true" signature="160:246" ph="{...}" />
+                <marker date="1513101686634" expanded="true" signature="188:244" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Chatroom/GUI/Environment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chatroom/GUI/AuthentificationForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chatroom/GUI/ChoosingTopicForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chatroom/GUI/ChatroomForm.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="66" />
+    <option name="y" value="64" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Chatroom (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Chatroom (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Chatroom" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Chatroom (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Chatroom" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GUI" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3e69684-061c-4f1c-912f-d426f60557ec" name="Default" comment="" />
+      <created>1513273857582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513273857582</updated>
+      <workItem from="1513273860144" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="64" width="1440" height="780" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chatroom/GUI/ChatroomForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513196113926" expanded="false" signature="6:310" ph="..." />
+            <marker date="1513196113926" expanded="true" signature="334:2813" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="378:2811" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="515:1124" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="723:872" ph="/* Send message to server to join the topic ... */" />
+            <marker date="1513196113926" expanded="true" signature="918:955" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1152:1719" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1215:1715" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1283:1710" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1792:1994" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1840:1929" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="1937:1990" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="2054:2162" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="2224:2233" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="2305:2314" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="2375:2808" ph="{...}" />
+            <marker date="1513196113926" expanded="true" signature="2488:2523" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chatroom/GUI/Environment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513101686634" expanded="false" signature="6:136" ph="..." />
+            <marker date="1513101686634" expanded="true" signature="160:246" ph="{...}" />
+            <marker date="1513101686634" expanded="true" signature="188:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chatroom/GUI/AuthentificationForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513110391673" expanded="true" signature="6:311" ph="..." />
+            <marker date="1513110391673" expanded="true" signature="335:4060" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="390:4058" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="521:1119" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="544:893" ph="/* Start the client process ... */" />
+            <marker date="1513110391673" expanded="true" signature="1182:1203" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1273:1294" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1374:1395" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1463:1571" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1638:1825" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1694:1729" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1901:1926" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="1996:3869" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="2308:2595" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="2414:2557" ph="/* MessageBox.Show(&quot;Password empty or withespace or null!&quot;, &quot;Error message&quot;, ... */" />
+            <marker date="1513110391673" expanded="true" signature="2643:2930" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="2749:2892" ph="/* MessageBox.Show(&quot;Password empty or withespace or null!&quot;, &quot;Error message&quot;, ... */" />
+            <marker date="1513110391673" expanded="true" signature="3042:3521" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="3346:3483" ph="/* MessageBox.Show(&quot;Authentification Okay!&quot;, &quot;Félicitations&quot;, ... */" />
+            <marker date="1513110391673" expanded="true" signature="3538:3858" ph="{...}" />
+            <marker date="1513110391673" expanded="true" signature="3702:3820" ph="/* MessageBox.Show(_ac.FailureMessage, &quot;Failure&quot;, ... */" />
+            <marker date="1513110391673" expanded="true" signature="3918:4050" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chatroom/GUI/ChoosingTopicForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513189503391" expanded="true" signature="6:270" ph="..." />
+            <marker date="1513189503391" expanded="true" signature="294:6051" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="343:6049" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="419:1147" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="605:647" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="766:1076" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="834:893" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="902:1071" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1014:1065" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1081:1143" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1204:1213" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1287:1296" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1363:1372" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1462:3630" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1655:1733" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1781:1850" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="1855:1958" ph="/* Set cursor to pause icon ... */" />
+            <marker date="1513189503391" expanded="true" signature="2114:2157" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="2383:2478" ph="/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ ... */" />
+            <marker date="1513189503391" expanded="true" signature="2579:3626" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="2676:3029" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="2796:2906" ph="/* Reset cursor to default icon ... */" />
+            <marker date="1513189503391" expanded="true" signature="3086:3468" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="3235:3345" ph="/* Reset cursor to default icon ... */" />
+            <marker date="1513189503391" expanded="true" signature="3478:3547" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="3691:3857" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="3742:3777" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="3932:3941" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4007:5662" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4111:4185" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4342:4383" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4560:5658" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4733:5252" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="4895:5050" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="5061:5146" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="5262:5400" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="5408:5573" ph="/* We don't need it right now ... */" />
+            <marker date="1513189503391" expanded="true" signature="5770:6046" ph="{...}" />
+            <marker date="1513189503391" expanded="true" signature="5878:5943" ph="/* form.FormClosed += (s, args) =&gt; this.Close(); ... */" />
+            <marker date="1513189503391" expanded="true" signature="5950:6042" ph="/* Stop the client topic manager proxy because we don't need it anymore111 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
